@@ -1,3 +1,16 @@
+*~
+
+#kdevelop
+*.kdev4
+
+# cmake build dirs
+release/
+Release/
+debug/
+Debug/
+build/
+Build/
+
 # Compiled Object files
 *.slo
 *.lo
